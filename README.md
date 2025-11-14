@@ -30,7 +30,6 @@ The code toggles an LED connected to pin 13 on and off at a fixed interval.
 4. Optional: LED + 220Ω resistor (if using external LED)
 
 
-
 **▶️ How to Run**
 
 1. Open the .ino file in **Arduino IDE**.
