@@ -10,13 +10,7 @@ The code toggles an LED connected to pin 13 on and off at a fixed interval.
 
 2. Uses digital pin 13, which is commonly connected to the onboard LED on most Arduino boards.
 
-3. Demonstrates use of:
-
-  a. pinMode()
-  
-  b. digitalWrite()
-  
-  c. delay()
+3. Demonstrates use of: a. pinMode() b. digitalWrite() c. delay()
   
 
 **📝 Requirements**
