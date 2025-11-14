@@ -9,7 +9,7 @@ The code toggles an LED connected to pin 13 on and off at a fixed interval.
 
 Name: **Rohit Gupta**
 
-Project: Alternate Multiple LED Blink – Arduino Project
+Project: LED Blink – Arduino Project
 
 
 
