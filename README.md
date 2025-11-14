@@ -4,6 +4,15 @@ This project demonstrates the most basic concept in Arduino programming: blinkin
 
 The code toggles an LED connected to pin 13 on and off at a fixed interval.
 
+
+**👨‍💻 Author**
+
+Name: **Rohit Gupta**
+
+Project: Alternate Multiple LED Blink – Arduino Project
+
+
+
 **📌 Features**
 
 1. Turns an LED ON and OFF repeatedly.
